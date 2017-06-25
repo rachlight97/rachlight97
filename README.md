@@ -1,8 +1,8 @@
 
 # HOMEWORK
 
-## Processing Day1
+## Processing Jun21
 ### 用processing中的函数做造型，运用了透明度，椭圆，填充函数。
 
-## Processing Day2
+## Processing Jun22
 ### 小球与边界碰撞运动，盘上旋转的元素的大小形状随着小球运动而变化。当小球在水平面以上，矩形向下半部分随机运动；当小球在水平面以下，矩形向上半部分随机运动。
